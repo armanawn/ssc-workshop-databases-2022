@@ -1,0 +1,11 @@
+name: ssc2022
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ipykernel
+  - python>=3.10
+  - psycopg2
+  - ipython-sql
+  - pgspecial
+  - pandas>=1.3
