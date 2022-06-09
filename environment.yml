@@ -8,4 +8,3 @@ dependencies:
   - psycopg2
   - ipython-sql
   - pgspecial
-  - pandas>=1.3
